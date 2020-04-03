@@ -24,7 +24,7 @@ require (
 	github.com/Azure/azure-amqp-common-go/v2 v2.1.0
 	github.com/Azure/azure-pipeline-go v0.2.1
 	github.com/Azure/azure-sdk-for-go v30.1.0+incompatible
-	github.com/Azure/azure-service-bus-go v0.9.1
+	github.com/Azure/azure-service-bus-go v0.10.0
 	github.com/Azure/azure-storage-blob-go v0.8.0
 	github.com/Azure/go-autorest v12.0.0+incompatible
 	github.com/GoogleCloudPlatform/cloudsql-proxy v0.0.0-20191009163259-e802c2cb94ae
