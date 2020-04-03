@@ -17,7 +17,7 @@ module gocloud.dev
 go 1.12
 
 require (
-	cloud.google.com/go v0.44.3
+	cloud.google.com/go v0.56.0
 	contrib.go.opencensus.io/exporter/aws v0.0.0-20181029163544-2befc13012d0
 	contrib.go.opencensus.io/exporter/stackdriver v0.12.1
 	contrib.go.opencensus.io/integrations/ocsql v0.1.4
