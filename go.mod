@@ -51,5 +51,5 @@ require (
 	google.golang.org/api v0.9.0
 	google.golang.org/genproto v0.0.0-20190801165951-fa694d86fc64
 	google.golang.org/grpc v1.21.1
-	pack.ag/amqp v0.11.2
+	pack.ag/amqp v0.12.5
 )
