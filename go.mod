@@ -19,7 +19,7 @@ go 1.12
 require (
 	cloud.google.com/go v0.44.3
 	contrib.go.opencensus.io/exporter/aws v0.0.0-20181029163544-2befc13012d0
-	contrib.go.opencensus.io/exporter/stackdriver v0.12.1
+	contrib.go.opencensus.io/exporter/stackdriver v0.13.1
 	contrib.go.opencensus.io/integrations/ocsql v0.1.4
 	github.com/Azure/azure-amqp-common-go/v2 v2.1.0
 	github.com/Azure/azure-pipeline-go v0.2.1
