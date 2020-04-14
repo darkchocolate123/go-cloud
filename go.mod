@@ -32,7 +32,7 @@ require (
 	github.com/dimchansky/utfbom v1.1.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/go-sql-driver/mysql v1.4.1
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.4.0
 	github.com/google/go-cmp v0.4.0
 	github.com/google/go-replayers/grpcreplay v0.1.0
 	github.com/google/go-replayers/httpreplay v0.1.0
