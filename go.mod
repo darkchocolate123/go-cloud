@@ -50,6 +50,6 @@ require (
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
 	google.golang.org/api v0.9.0
 	google.golang.org/genproto v0.0.0-20190801165951-fa694d86fc64
-	google.golang.org/grpc v1.21.1
+	google.golang.org/grpc v1.29.0
 	pack.ag/amqp v0.11.2
 )
