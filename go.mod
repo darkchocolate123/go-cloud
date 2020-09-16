@@ -17,7 +17,7 @@ module gocloud.dev
 go 1.12
 
 require (
-	cloud.google.com/go v0.44.3
+	cloud.google.com/go v0.66.0
 	contrib.go.opencensus.io/exporter/aws v0.0.0-20181029163544-2befc13012d0
 	contrib.go.opencensus.io/exporter/stackdriver v0.12.1
 	contrib.go.opencensus.io/integrations/ocsql v0.1.4
@@ -32,8 +32,8 @@ require (
 	github.com/dimchansky/utfbom v1.1.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/go-sql-driver/mysql v1.4.1
-	github.com/golang/protobuf v1.3.2
-	github.com/google/go-cmp v0.4.0
+	github.com/golang/protobuf v1.4.2
+	github.com/google/go-cmp v0.5.2
 	github.com/google/go-replayers/grpcreplay v0.1.0
 	github.com/google/go-replayers/httpreplay v0.1.0
 	github.com/google/martian v2.1.1-0.20190517191504-25dcb96d9e51+incompatible // indirect
@@ -42,14 +42,14 @@ require (
 	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/lib/pq v1.1.1
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
-	go.opencensus.io v0.22.2
-	golang.org/x/crypto v0.0.0-20190605123033-f99c8df09eb5
-	golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7
-	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
-	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
-	google.golang.org/api v0.9.0
-	google.golang.org/genproto v0.0.0-20190801165951-fa694d86fc64
-	google.golang.org/grpc v1.21.1
+	go.opencensus.io v0.22.4
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/net v0.0.0-20200904194848-62affa334b73
+	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
+	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
+	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
+	google.golang.org/api v0.31.0
+	google.golang.org/genproto v0.0.0-20200914193844-75d14daec038
+	google.golang.org/grpc v1.31.1
 	pack.ag/amqp v0.11.2
 )
